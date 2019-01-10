@@ -42,4 +42,6 @@ oder wieder als liste.
 
 py3-installer-xxx.sh  Python 3 openATV Installationsskript für opkg Installierung, 
 
-bitte Ausfürbar machen und mit ./py3-installer.sh starten:
+bitte Ausfürbar machen und mit ./py3-installer.sh starten.
+
+Wenn ihr den apt Paketmanager habt, müst ihr opkg in apt umbenennen.
