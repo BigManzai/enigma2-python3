@@ -1,7 +1,7 @@
 # enigma2-python3
 Python 3 Install Script openATV
 
-Erst mal schauen was für ein Betriebssystem läuft.
+Erst mal schauen was für ein Paketdienst läuft.
 
 Gebt nachfolgendes ein:
 
